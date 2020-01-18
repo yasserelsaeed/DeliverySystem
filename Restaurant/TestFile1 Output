@@ -1,0 +1,67 @@
+FT        ID        AT        WT        ST        
+5         7         3         1         1         
+7         8         3         1         3         
+7         1         1         1         5         
+8         16        4         1         3         
+9         2         2         1         6         
+9         3         2         1         6         
+10        13        3         1         6         
+10        10        3         1         6         
+10        4         2         1         7         
+11        38        9         1         1         
+11        26        6         1         4         
+11        28        6         1         4         
+11        24        6         1         4         
+11        20        6         1         4         
+11        12        3         1         7         
+11        6         3         1         7         
+11        5         2         1         8         
+12        34        8         1         3         
+12        32        7         1         4         
+12        22        6         1         5         
+12        14        3         1         8         
+13        27        6         1         6         
+13        19        6         1         6         
+14        35        9         1         4         
+14        25        6         1         7         
+15        40        9         1         5         
+15        29        6         1         8         
+15        18        5         1         9         
+16        44        10        1         5         
+17        36        9         1         7         
+19        42        10        1         8         
+19        39        9         1         9         
+19        23        6         1         12        
+20        37        9         1         10        
+21        46        11        1         9         
+23        31        7         1         15        
+23        11        3         1         19        
+26        21        6         1         19        
+26        30        6         1         19        
+27        45        10        1         16        
+28        41        9         1         18        
+29        43        10        1         18        
+32        33        8         1         23        
+35        17        5         1         29        
+
+Region A:
+#Orders: 10   (Norm: 3   Frozen: 4   VIP: 3)
+#Motors: 15   (Norm: 4   Frozen: 5   VIP: 6)
+AvgWait: 1  AvgServ: 6.6
+
+Region B:
+#Orders: 13   (Norm: 3   Frozen: 4   VIP: 6)
+#Motors: 19   (Norm: 7   Frozen: 5   VIP: 7)
+AvgWait: 0.923077  AvgServ: 7.15385
+
+Region C:
+#Orders: 11   (Norm: 6   Frozen: 4   VIP: 1)
+#Motors: 15   (Norm: 4   Frozen: 6   VIP: 5)
+AvgWait: 0.909091  AvgServ: 11
+
+Region D:
+#Orders: 12   (Norm: 3   Frozen: 3   VIP: 6)
+#Motors: 15   (Norm: 3   Frozen: 5   VIP: 7)
+AvgWait: 1  AvgServ: 8.58333
+
+RestautantAvgWait: 0.958042   RestaurantAvgServ: 8.33429

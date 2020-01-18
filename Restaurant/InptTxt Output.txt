@@ -1,0 +1,26 @@
+FT        ID        AT        WT        ST        
+2         7         0         2         0         
+2         2         0         2         0         
+7         3         0         2         5         
+
+Region A:
+#Orders: 1   (Norm: 1   Frozen: 0   VIP: 0)
+#Motors: 12   (Norm: 5   Frozen: 4   VIP: 3)
+AvgWait: 0  AvgServ: 0
+
+Region B:
+#Orders: 1   (Norm: 1   Frozen: 0   VIP: 0)
+#Motors: 11   (Norm: 6   Frozen: 3   VIP: 2)
+AvgWait: 2  AvgServ: 0
+
+Region C:
+#Orders: 1   (Norm: 0   Frozen: 0   VIP: 1)
+#Motors: 7   (Norm: 4   Frozen: 2   VIP: 1)
+AvgWait: 2  AvgServ: 0
+
+Region D:
+#Orders: 1   (Norm: 0   Frozen: 0   VIP: 1)
+#Motors: 15   (Norm: 9   Frozen: 4   VIP: 2)
+AvgWait: 2  AvgServ: 5
+
+RestautantAvgWait: 1.5   RestaurantAvgServ: 1.25
